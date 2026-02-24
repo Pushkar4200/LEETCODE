@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Pushkar4200/LEETCODE/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Pushkar4200/LEETCODE/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Pushkar4200/LEETCODE/tree/master/0263-ugly-number) |
 ## Dynamic Programming
 |  |
 | ------- |
