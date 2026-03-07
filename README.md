@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Pushkar4200/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Pushkar4200/LEETCODE/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pushkar4200/LEETCODE/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Pushkar4200/LEETCODE/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Pushkar4200/LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
