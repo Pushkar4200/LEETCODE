@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Pushkar4200/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Pushkar4200/LEETCODE/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Pushkar4200/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pushkar4200/LEETCODE/tree/master/0263-ugly-number) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pushkar4200/LEETCODE/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Pushkar4200/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
