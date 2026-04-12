@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pushkar4200/LEETCODE/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pushkar4200/LEETCODE/tree/master/0078-subsets) |
+| [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
