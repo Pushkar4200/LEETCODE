@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Pushkar4200/LEETCODE/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Pushkar4200/LEETCODE/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Pushkar4200/LEETCODE/tree/master/0263-ugly-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pushkar4200/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Pushkar4200/LEETCODE/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pushkar4200/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pushkar4200/LEETCODE/tree/master/0078-subsets) |
 | [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Pushkar4200/LEETCODE/tree/master/0739-daily-temperatures) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pushkar4200/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
@@ -56,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Pushkar4200/LEETCODE/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pushkar4200/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pushkar4200/LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
