@@ -46,8 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Pushkar4200/LEETCODE/tree/master/0078-subsets) |
 | [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Pushkar4200/LEETCODE/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Pushkar4200/LEETCODE/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Pushkar4200/LEETCODE/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Pushkar4200/LEETCODE/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
